@@ -8,8 +8,8 @@ body {
     font-weight: 400;
     background-color: hsl(185, 75%, 39%);
     background-image: 
-        url("/images/bg-pattern-bottom.svg"),
-        url("/images/bg-pattern-top.svg");
+        url("images/bg-pattern-bottom.svg"),
+        url("images/bg-pattern-top.svg");
     background-position: 
         50vw 50vh,
         -50vw -75vh;
@@ -24,7 +24,7 @@ body {
 }
 
 .profile-pic {
-    background-image: url("/images/bg-pattern-card.svg");
+    background-image: url("images/bg-pattern-card.svg");
     height: 45%;
     border-radius: 20px 20px 0 0;
 }
